@@ -29,10 +29,7 @@ Test your typing speed and accuracy with randomly selected sentences!
    python tester.py
    ```
 
-## Screenshots
 
-![Screenshot](screenshot.png)  
-*(Add your own screenshot here!)*
 
 ## Usage
 
